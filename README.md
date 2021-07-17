@@ -6,10 +6,15 @@ use this command to import opencv
 import cv2
 ```
 if you faced a problem use this steps
+
 1- File
+
 2- Setting
+
 3- Click on the project file you are working on
+
 4- Project interpreter
+
 5- Add ( opencv-python ) and install the package
 
 # 2- Initalize opencv
