@@ -27,8 +27,8 @@ smileCascade = cv2.CascadeClassifier('Cascades/haarcascades/HAARCASCADE_SMILE.xm
 # 3- Setting up your camera
 ```
 cap = cv2.VideoCapture(0)
-cap.set(3,640) # set Width
-cap.set(4,480) # set Height
+cap.set(3,640) # Width
+cap.set(4,480) # Height
 ```
 # 4- Call classifier function
 These commands will help to set the camera and load input videos 
